@@ -1,1 +1,1 @@
-This is the data visualization pro
+This is the data visualization project
